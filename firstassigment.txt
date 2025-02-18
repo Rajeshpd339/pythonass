@@ -1,0 +1,22 @@
+1.	Identifier (FIST CONCEPT IN PYTHON)
+ It is name in python (variable, class, function)
+Rule:
+1.	Name can be lower upper case digit and special symbols
+2.	Name can not start with any digit 
+Example:
+123Chandan (wrong)
+Chandu123(right)
+3.	Name can not start with any special sybmbols
+@123pagali@
+pagali@123
+4.	Name can start with underscore (_)
+123abc=100(wrong)
+_123=200
+5.	Space are not allow 
+V n=10( wrong)
+V_n=10
+6.	Python does support the $ 
+Ab@AB$=100
+
+	Q	question 
+Write the 10 valid and 10 invalid identifier names 
